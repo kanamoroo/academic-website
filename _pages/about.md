@@ -6,7 +6,7 @@ subtitle: <a href="https://www.ioa.s.u-tokyo.ac.jp/index.php">Institute of Astro
 
 profile:
   align: right
-  image: prof_pic_taiwan.jpg
+  image: prof_pic_zoomin.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2012</p>
