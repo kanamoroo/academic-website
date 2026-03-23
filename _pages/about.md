@@ -29,10 +29,11 @@ latest_posts:
 
 My research focuses on the **diversity of star formation activities** in galaxies and their physical origins. 
 
-Building on my foundational work on the relationship between **galactic structures (spiral arms and bars)** and star formation in field disk galaxies, I investigate how different environments and evolutionary phases influence the growth of galaxies:
+Building on my foundational work on the relationship between **galactic structures (bars and spiral arms)** and star formation in field disk galaxies, I investigate how different environments and evolutionary phases influence the growth of galaxies:
 
-* **Environmental Effects:** Mechanisms of star formation quenching in local galaxy clusters.
 * **High-redshift Frontiers:** Active star formation within protoclusters during the Epoch of Reionization.
+* **Lyman Continuum Leakage:** Investigating star formation and LyC leakage processes in local analogs of Ly$\alpha$ Emitters (LAEs) to understand cosmic reionization.
+* **Environmental Effects:** Mechanisms of star formation quenching in local galaxy clusters.
 * **AGN Feedback:** Interactions between relativistic jets and the interstellar medium (ISM) in nearby radio galaxies.
 
 I utilize multi-wavelength observations, primarily in **radio and optical**, to bridge the gap between small-scale gas physics and large-scale galaxy evolution.
