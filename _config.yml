@@ -662,11 +662,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
+#  - projects
+#  - volunteer
+#  - awards
+#  - certificates
+#  - skills
   - languages
   - interests
-  - references
+#  - references
