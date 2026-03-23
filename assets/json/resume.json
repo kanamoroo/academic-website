@@ -19,7 +19,7 @@
     {
       "name": "Institute of Astronomy, The University of Tokyo",
       "position": "Assistant Professor",
-      "location": "Mitaka, Tokyo, Japan",
+      "location": "Mitaka, Tokyo",
       "startDate": "2023-10-01",
       "endDate": "Present",
       "summary": "Researcher in the Radio Astronomy Group at The University of Tokyo, studying galaxy evolution via radio observations with Prof. Kotaro Kohno and Assoc. Prof. Fumi Egusa.",
@@ -28,7 +28,7 @@
     {
       "name": "Center for Compulational Sciences, University of Tsukuba",
       "position": "Postdoc Researcher",
-      "location": "Tsukuba, Ibaraki, Japan",
+      "location": "Tsukuba, Ibaraki",
       "startDate": "2022-12-01",
       "endDate": "2023-09-30",
       "summary": "",
@@ -37,7 +37,7 @@
     {
       "name": "Institute of Astronomy, The University of Tokyo",
       "position": "JSPS Fellow",
-      "location": "Mitaka, Tokyo, Japan",
+      "location": "Mitaka, Tokyo",
       "startDate": "2019-04-01",
       "endDate": "2022-11-30",
       "summary": "",
@@ -46,7 +46,7 @@
     {
       "name": "Institute of Space and Astronautical Science/Japan Aerospace Exploration Agency",
       "position": "Aerospace Project Research Associate",
-      "location": "Sagamihara, Kanagawa, Japan",
+      "location": "Sagamihara, Kanagawa",
       "startDate": "2017-04-01",
       "endDate": "2019-03-31",
       "summary": "",
@@ -55,7 +55,7 @@
     {
       "name": "Chile Observatory, National Astronomical Observatory of Japan",
       "position": "Project Research Fellow",
-      "location": "Mitaka, Tokyo, Japan",
+      "location": "Mitaka, Tokyo",
       "startDate": "2015-04-01",
       "endDate": "2017-03-31",
       "summary": "",
@@ -64,7 +64,7 @@
     {
       "name": "Nobeyama Radio Observatory, National Astronomical Observatory of Japan",
       "position": "Project Research Fellow",
-      "location": "Nobeyama, Nagano, Japan",
+      "location": "Nobeyama, Nagano",
       "startDate": "2012-04-01",
       "endDate": "2015-03-31",
       "summary": "",
@@ -94,7 +94,7 @@
   "education": [
     {
       "institution": "Hokkaido University",
-      "location": "Sapporo, Hokkaido, Japan",
+      "location": "Sapporo, Hokkaido",
       "url": "https://www.global.hokudai.ac.jp/",
       "area": "Science",
       "studyType": "PhD",
@@ -106,7 +106,7 @@
     },
     {
       "institution": "Hokkaido University",
-      "location": "Sapporo, Hokkaido, Japan",
+      "location": "Sapporo, Hokkaido",
       "area": "Science",
       "studyType": "MA",
       "startDate": "2007-04-01",
@@ -117,7 +117,7 @@
     },
     {
       "institution": "Chuo University",
-      "location": "Bunkyo, Tokyo, Japan",
+      "location": "Bunkyo, Tokyo",
       "area": "Physics",
       "studyType": "BA",
       "startDate": "2003-04-01",
