@@ -61,6 +61,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/academic-website/books/the_godfather/";
+            },},{id: "projects-project-4",
+          title: 'project 4',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic-website/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
