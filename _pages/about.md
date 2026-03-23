@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: Assistant Professor at <a href="https://www.ioa.s.u-tokyo.ac.jp/index.php">IoA</a>, The University of Tokyo (東京大学 天文学教育研究センター 助教)
+subtitle: Assistant Professor at <a href="https://www.ioa.s.u-tokyo.ac.jp/index.php">Institute of Astronomy</a>, The University of Tokyo (東京大学 天文学教育研究センター 助教)
 
 profile:
   align: right
