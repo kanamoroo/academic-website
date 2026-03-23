@@ -175,5 +175,26 @@
     }
   ],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+      "name": "Grant-in-Aid for Early-Career Scientists",
+      "publisher": "JSPS (KAKENHI)",
+      "releaseDate": "2026 - 2028",
+      "summary": "分子ガス物理から迫る星の初期質量関数の多様性:M31を対象とした観測的研究 (Principal Investigator)."
+    }
+    {
+      "name": "Grant-in-Aid for Scientific Research (C)",
+      "publisher": "JSPS (KAKENHI)",
+      "releaseDate": "2019 - 2022",
+      "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H01931/",
+      "summary": "銀河団形成領域の高分解能計算と広視野・高分解能観測で解き明かす銀河と銀河団の進化 (Co-Investigator)."
+    },
+    {
+        "name": "Grant-in-Aid for JSPS Fellows",
+        "publisher": "Japan Society for the Promotion of Science (JSPS)",
+        "releaseDate": "2019 - 2023",
+        "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19J40004/",
+        "summary": "ALMAガス観測で探る銀河団環境下での実は多様な銀河星形成抑制機構 (Principal Investigator). This grant was awarded in conjunction with the JSPS Research Fellowship (RPD)."
+    }
+  ]
 }
