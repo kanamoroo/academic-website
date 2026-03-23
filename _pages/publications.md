@@ -12,15 +12,15 @@ nav_order: 2
 <div class="publications">
 
 <h2 class="category">Refereed Journal Articles</h2>
-{% bibliography -f papers -q @*[type=article]* %}
+{% bibliography -f papers -q @*[type=='article']* %}
 
 <h2 class="category">Conference Proceedings</h2>
-{% bibliography -f papers -q @*[type=inproceedings]* %}
+{% bibliography -f papers -q @*[type=='inproceedings']* %}
 
 <h2 class="category">Datasets & Catalogs</h2>
-{% bibliography -f papers -q @*[type=dataset]* %}
+{% bibliography -f papers -q @*[type=='dataset']* %}
 
 <h2 class="category">Other Contributions</h2>
-{% bibliography -f papers -q @*[type=misc]* %}
+{% bibliography -f papers -q @*[type=='misc']* %}
 
 </div>
