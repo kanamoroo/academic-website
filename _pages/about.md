@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>kanamoro(at)ioa.s.u-tokyo.ac.jp</p>
     <p>2-21-1 Osawa</p>
-    <p>Mitaka, Tokyo 181-0015</p>
+    <p>Mitaka, Tokyo 181-0015, Japan</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
