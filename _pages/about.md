@@ -9,12 +9,12 @@ profile:
   image: prof_pic_zoomin.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2012</p>
+    <p>kanamoro(at)ioa.s.u-tokyo.ac.jp</p>
     <p>2-21-1 Osawa</p>
     <p>Mitaka, Tokyo 181-0015</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
