@@ -1,63 +1,72 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kana Morokuma",
+    "label": "Astronomer",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kanamoro_at-mark_ioa.s.u-tokyo.ac.jp (change _at-mark_ to @)",
+    "phone": "0422-34-5021",
+    "summary": "Investigating the evolution of galaxies via radio and optical observations.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "2-21-1 Osawa",
+      "postalCode": "181-0015",
+      "city": "Mitaka",
+      "countryCode": "Japan",
+      "region": "Mitaka"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Institute of Astronomy, The University of Tokyo",
+      "position": "Assistant Professor",
+      "location": "Mitaka, Tokyo, Japan",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "Researcher in the Radio Astronomy Group at The University of Tokyo, studying galaxy evolution via radio observations with Prof. Kotaro Kohno and Assoc. Prof. Fumi Egusa.",
+      "highlights": ["Galaxy Evolution", "Radio Astronomy"]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "Center for Compulational Sciences, University of Tsukuba",
+      "position": "Postdoc Researcher",
+      "location": "Tsukuba, Ibaraki, Japan",
+      "startDate": "2022-12-01",
+      "endDate": "2023-09-30",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Protoclusters", "Cosmological Simulations"]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "Institute of Astronomy, The University of Tokyo",
+      "position": "JSPS Fellow",
+      "location": "Mitaka, Tokyo, Japan",
+      "startDate": "2019-04-01",
+      "endDate": "2022-11-30",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "Institute of Space and Astronautical Science/Japan Aerospace Exploration Agency",
+      "position": "Aerospace Project Research Associate",
+      "location": "Sagamihara, Kanagawa, Japan",
+      "startDate": "2017-04-01",
+      "endDate": "2019-03-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Chile Observatory, National Astronomical Observatory of Japan",
+      "position": "Project Research Fellow",
+      "location": "Mitaka, Tokyo, Japan",
+      "startDate": "2015-04-01",
+      "endDate": "2017-03-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Nobeyama Radio Observatory, National Astronomical Observatory of Japan",
+      "position": "Project Research Fellow",
+      "location": "Nobeyama, Nagano, Japan",
+      "startDate": "2012-04-01",
+      "endDate": "2015-03-31",
       "summary": "",
       "highlights": []
     }
@@ -75,27 +84,38 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "Hokkaido University",
+      "location": "Sapporo, Hokkaido, Japan",
+      "url": "https://www.global.hokudai.ac.jp/",
+      "area": "Science",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2009-04-01",
+      "endDate": "2012-03-31",
       "score": "",
       "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Radio Astronomy", "Barred Spiral Galaxies"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "Hokkaido University",
+      "location": "Sapporo, Hokkaido, Japan",
+      "area": "Science",
+      "studyType": "MA",
+      "startDate": "2007-04-01",
+      "endDate": "2009-03-31",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["SDSS", "AGN"]
+    },
+    {
+      "institution": "Chuo University",
+      "location": "Bunkyo, Tokyo, Japan",
+      "area": "Physics",
+      "studyType": "BA",
+      "startDate": "2003-04-01",
+      "endDate": "2007-03-31",
+      "score": "",
+      "courses": [],
+      "highlights": ["Quantum Mechanics (Reading Seminar)"]
     }
   ],
   "awards": [
@@ -173,7 +193,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Japanese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -185,15 +205,13 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Astronomy",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Galaxy Evolution",
+        "Star Formation",
+        "Environmental Effects",
+        "AGN feedback"
       ]
     }
   ],
